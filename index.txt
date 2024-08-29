@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Yiğit Tilaver
+Yiğit Tilaver
+Junior developer
 
 Show Contacts
 
 Email
-richard@example.com
+yigittilaver2000@gmail.com
 
 Phone
-+1 (213) 352-2795
++90 505 020 2095
 
 Birthday
-June 23, 1982
+January 1, 2001
 
 Location
-Sacramento, California, USA
+Tarsus/ Mersin, Türkiye
 
 # navbar
 
