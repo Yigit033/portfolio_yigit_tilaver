@@ -42,7 +42,7 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+Data science
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
@@ -51,7 +51,7 @@ High-quality development of sites at the professional level.
 
 alt = mobile app icon
 Mobile apps
-Professional development of applications for iOS and Android.
+Professional development of Data analysis for iOS and Android.
 
 alt = camera icon
 Photography
@@ -121,7 +121,7 @@ Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corru
 
 My skills
 
-Web design
+Data science
 80%
 Graphic design
 70%
@@ -137,14 +137,14 @@ WordPress
 Portfolio
 
 All
-Web design
-Applications
+Data science
+Data analysis
 Web development
 
 Select category
 All
-Web design
-Applications
+Data science
+Data analysis
 Web development
 
 alt = finance
@@ -157,19 +157,19 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+Data science
 
 alt = brawlhalla
 Brawlhalla
-Applications
+Data analysis
 
 alt = dsm.
 DSM.
-Web design
+Data science
 
 alt = metaspark
 MetaSpark
-Web design
+Data science
 
 alt = summary
 Summary
@@ -177,7 +177,7 @@ Web development
 
 alt = task manager
 Task Manager
-Applications
+Data analysis
 
 alt = arrival
 Arrival
